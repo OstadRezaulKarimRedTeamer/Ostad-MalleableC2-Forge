@@ -1,0 +1,4 @@
+# Ostad Malleable C2 Forge Dependencies
+# Core standard library only (tkinter is built-in)
+# Optional packaging and analysis libraries:
+pyinstaller>=6.0.0
